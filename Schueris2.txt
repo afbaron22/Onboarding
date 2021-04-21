@@ -1,0 +1,2 @@
+copy con Schueris3.txt
+git status
